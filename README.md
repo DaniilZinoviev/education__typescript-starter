@@ -1,2 +1,2 @@
-# typescript-starter
+# Typescript starter template
 Starter Tyepscript with Gulp
