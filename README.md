@@ -1,2 +1,4 @@
 # Typescript starter template
-Starter Tyepscript with Gulp
+Typescript starter template with Gulp
+
+For start working, type ```gulp```
