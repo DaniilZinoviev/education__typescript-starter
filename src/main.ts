@@ -1,8 +1,3 @@
-import { hello } from './ts/greet';
+import { BasicTypes } from './ts/BasicTypes';
 
-function showHello(divClass: string, name: string) {
-    const el = document.querySelector('.' + divClass);
-    el.innerHTML = hello(name);
-}
-
-showHello('greet', 'TypeScript');
+BasicTypes();

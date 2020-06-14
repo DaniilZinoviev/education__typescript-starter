@@ -1,10 +1,10 @@
 {
     "files": [
-        "src/main.ts",
-        "src/ts/greet.ts"
+        "src/main.ts"
     ],
     "compilerOptions": {
         "noImplicitAny": true,
-        "target": "ES5"
+        "target": "ES5",
+        "strictNullChecks": true
     }
 }
