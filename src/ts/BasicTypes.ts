@@ -24,6 +24,7 @@ export function BasicTypes() {
 
     let someValue: any = '12';
     let strLength = (someValue as string).length;
+    strLength = (<string>someValue).length;
     
     
 }
