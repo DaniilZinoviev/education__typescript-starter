@@ -9,4 +9,5 @@ export function TypeInference() {
         // console.log(mouseEvent.kangaroo); //<- Error!
     };
 
+
 }
